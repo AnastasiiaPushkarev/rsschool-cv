@@ -16,7 +16,7 @@
 
 ## About Me
 
-
+I'm a passionate front-end developer with a strong interest in building beautiful and intuitive user interfaces.
 
 ## Skills:
 
@@ -30,7 +30,13 @@
 
 ## Code example:
 
-
+```
+function getTheAnswer(gameAnswer){
+  var random = Math.floor(Math.random() * gameAnswer.length);
+  var answer = gameAnswer[random];
+  $(".answer").text(answer);
+}
+```
 
 ## Experience:
 
