@@ -20,13 +20,13 @@ I'm a passionate front-end developer with a strong interest in building beautifu
 
 ## Skills:
 
-* HTML | CSS
+* HTML, CSS
 * Bootstrap
-* JavaScript | JQuery
+* JavaScript, JQuery
 * API
-* GIT | GitHub
-* VSCode | Atom
-* Figma | Canva
+* GIT, GitHub
+* VSCode, Atom
+* Figma, Canva
 
 ## Code example:
 
